@@ -1,7 +1,7 @@
 # Portfólio Acadêmico | 5º Período
 
-**Estudante:** João Marcos Tavares Maciel de Souza
-**Instituição:** Faculdade SENAC Pernambuco
+**Estudante:** João Marcos Tavares Maciel de Souza \
+**Instituição:** Faculdade SENAC Pernambuco \
 **Curso:** Análise e Desenvolvimento de Sistemas
 
 Este repositório consolida as atividades e documentações desenvolvidas durante o 5º período do curso, aplicando conceitos de Arquitetura da Informação (Classificação, Taxonomia, Metadados, Navegação, Encontrabilidade e Relações).
